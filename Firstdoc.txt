@@ -1,4 +1,4 @@
 Hello this is for the demo purpose....
-<<<<<<< HEAD
+
 This change on main branch and This change on branch2
 
